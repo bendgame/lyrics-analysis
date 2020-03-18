@@ -15,7 +15,7 @@ import pandas as pd
 import re
 import seaborn as sns
 #from config import token
-token = 'n6PImdRqDu6xBKF0X7LWHqltyDGATOLj9q6-I9FZndaPFtGzJ9mOZlhbffkW994H'
+token = ''
 
 
 class GeniusArtistDataCollect:
